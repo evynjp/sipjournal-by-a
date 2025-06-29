@@ -1,3 +1,3 @@
 # sipjournal-by-a
 
-A Tokyo and Yokohama based coffee journal by "A". A gift for my love.
+A Tokyo and Yokohama based coffee journal by "A". A gift for my love. A work in progress.
